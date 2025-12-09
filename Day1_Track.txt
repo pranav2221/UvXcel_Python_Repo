@@ -1,0 +1,8 @@
+1.variables in python 
+2.data types in python
+3.keywords in python
+4.operators in python
+5.Strings in details
+6.Conditional Statements and Nested Conditional statements 
+7.List and its methods
+8.Tuples and its methods
