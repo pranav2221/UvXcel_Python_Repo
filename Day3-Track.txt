@@ -1,0 +1,6 @@
+Day3-Track 
+1.understand the problem statement properly 
+2.Find outs which concept are required for this problem from python 
+3.Try to write the code 
+4.find output only upto first requirement  
+5.Get idea about how to deal with the files using python
