@@ -32,3 +32,6 @@ print("Total entries:", total_entries)
 print("INFO:", info_count)
 print("WARN:", warn_count)
 print("ERROR:", error_count)
+
+
+# Day 4 code to write code for second requirement 
