@@ -1,0 +1,1 @@
+errors_per_hour = [0] * 24
