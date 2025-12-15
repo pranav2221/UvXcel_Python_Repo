@@ -1,0 +1,5 @@
+1.completed remaining tasks about given work
+2.complete searching task
+3.explore some project ideas 
+4.Learn FAST API python framework
+5.build one inventory management basic project using FAST API
