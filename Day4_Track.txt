@@ -1,6 +1,6 @@
 Today I Complete the provided task upto time range output 
 Then modify the code for better understanding 
-Explore new commands for git and github like how to create new folder inside the directory 
+Explore new commands for git and github like how to create new folder inside the repository 
 and how to move file in that folder 
 Try for medium.log file also 
 Find out the code written for small.log is also work properly for medium.log but still working on it 
