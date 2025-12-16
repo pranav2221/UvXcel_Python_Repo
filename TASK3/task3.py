@@ -27,7 +27,7 @@ def analyze_log_file(log_file):
             elif "ERROR" in line:
                 error_count += 1
 
-                # Extract hour using split (no slicing, no regex)
+                # Extract hour using split
                 parts = line.split(" ")
                 time_part = parts[1]        # HH:MM:SS
                 hour = int(time_part.split(":")[0])
