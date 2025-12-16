@@ -1,0 +1,6 @@
+1.First I go through the given task
+2.Then undersatnd the concept of ProcessPoolExecutor
+3.Then I write the code for Task 3
+4.Then start to working on project 
+5.Then find out proper dataset for it 
+6.Explore the dataset,means go through all the columns and check what type of data they have 
