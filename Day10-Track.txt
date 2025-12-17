@@ -1,0 +1,4 @@
+1.Define the problem statement for the project
+2.Start exploring the dataset using python
+3.Performs Data cleaning and preprocessing 
+4.Make Dataset ready for further analysis
