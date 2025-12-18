@@ -1,0 +1,4 @@
+1.Work on EDA process of dataset 
+2.Make some visuals regarding insights 
+3.Analyze the insights and take note of it
+4.Try to make more visuals 
