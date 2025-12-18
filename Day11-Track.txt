@@ -2,3 +2,4 @@
 2.Make some visuals regarding insights 
 3.Analyze the insights and take note of it
 4.Try to make more visuals 
+5.Try to solve some questions regarding SQL
