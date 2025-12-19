@@ -1,0 +1,4 @@
+1.Complted the preprocessing task 
+2.Also complted the EDA process 
+3.Make all ppossible visuals which are informal for Business decision 
+4.Make dataset proper for further analysis using SQL 
