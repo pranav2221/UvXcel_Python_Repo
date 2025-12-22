@@ -1,0 +1,6 @@
+1.Move towards the SQL basis Analysis of Dataset 
+2.Create the Database and Table Schema According to dataset
+3.Load CSV file into the database
+4.try to write some quries 
+5.Make more deeper analysis using SQL
+6.Target is to write 20 Queries for Analysis
