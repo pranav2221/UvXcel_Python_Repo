@@ -1,0 +1,5 @@
+1.Write various SQL Queries for more Analysis
+2.Make proper analysis 
+3.Write upto 7 Quries 
+4.Also explore the next step of the project
+5.Learn about the various machine learning models
