@@ -1,0 +1,2 @@
+1.Complete the SQL analysis of the dataset 
+2.Prepared data for ML models 
