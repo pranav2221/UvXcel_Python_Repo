@@ -1,0 +1,5 @@
+1.Choose three models Logistic Regression,Decision Tree,Random Forest.
+2.Preprocess the Dataset for ML models.
+3.Choose only relevent features that affect Attrition rate like Age,Monthly Income,JobSatisfiction,WorkLifeBalance,YearsAtCompany,OverTime.
+4.Perform Encoding , Standardization on the Dataset.
+5.Complete the evolution of the First model Logistic Model.
