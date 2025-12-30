@@ -1,0 +1,3 @@
+1.Train other two remaining models also 
+2.Complete the part of the machine learning required for this project 
+3.import the all models for use in backend by using FastAPI
