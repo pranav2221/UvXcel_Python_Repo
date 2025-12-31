@@ -1,0 +1,3 @@
+1.Today I completed my all ML tasks required for this project.
+2.Made PowerBI dashboard to understand the insights more carefully using various charts,Graphs etc
+3.Write some part of FastAPI code to develop backend like load models for backend.
