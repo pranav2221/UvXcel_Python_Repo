@@ -1,0 +1,4 @@
+1.Created First End point in FastAPI
+2.To get input from users
+3.Also Create Almost half of the another endpoint Predict 
+4.Explore how I can write the code for ensemble logic for my three models 
