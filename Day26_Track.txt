@@ -1,0 +1,3 @@
+1.Complete the final ensemble logic for correct prediction
+2.Complete the Backend using FastAPI
+3.Complete the some part of  the streamlite by configuring the page 
