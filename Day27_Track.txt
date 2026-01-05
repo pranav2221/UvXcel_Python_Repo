@@ -1,0 +1,6 @@
+1.Write the streamlit code for input form.
+2.Also write the code for Prediction logic and write some code for the 
+how can I show the Results.
+3.Load the ML models files in streamlit file.
+4.Write the code for Ensemble Logic to make Final Prediction using the three 
+models that I have used for prediction purpose.
