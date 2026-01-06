@@ -1,0 +1,4 @@
+1.Completed the project UI.
+2.Test Frontend and Backend on various inputs. 
+3.Project is completed Successfully.
+4.Only Deployment and Documentation is remaining.
