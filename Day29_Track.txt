@@ -1,0 +1,5 @@
+1.Complete The changes suggested by the sir like increase the MonthlyIncome Limit,
+increase the rating limit from 1-10 for job satisfaction and worklife balance.
+2.Deployed the project.
+3.Create The Powerpoint presentation for the project.
+3.Create final Github Repo with proper Documentation.
