@@ -1,0 +1,6 @@
+1.Fianlize one project Idea.(Sales AI Data Storytelling Platform(For ECommerce Sales))
+-This project focuses on turning raw data and charts into easy-to-understand stories,
+just like a human business analyst would explain to managers or executives.
+2.Understand Business Problem.
+3.Find out relevant dataset for it.
+4.Performs basic data Exploration.
