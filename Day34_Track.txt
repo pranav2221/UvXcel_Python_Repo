@@ -1,0 +1,4 @@
+1.Set the proper folder structure.
+2.Performs Data cleaning.
+3.Make Dataset ready for further analysis.
+4.Started little for EDA.
