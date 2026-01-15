@@ -1,0 +1,2 @@
+1.Completed the EDA.
+2.Make dataset for further analysis.
